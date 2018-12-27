@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestOAuthFitBit</string>
+    <string name="connect_to_fitbit">Conectar ao FitBit</string>
+</resources>
